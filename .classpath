@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/PaperSpigot 1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/BungeeTabListPlus_BukkitBridge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/IslandWorld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Snyx_i7/Desktop/svrx86/NS_Core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

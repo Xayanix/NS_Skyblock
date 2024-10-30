@@ -1,0 +1,17 @@
+name: NS_Skyblock
+author: Xayanix
+version: 1.0
+api-version: 1.13
+main: net.xayanix.nssv.skyblock.basic.Main
+depend: [NS_Core, SuperiorSkyblock2, HopperReplacement]
+commands:
+  drop:
+    aliases: drop
+  schowek:
+    aliases: [schoweczek]
+  kasyno:
+    aliases: [kasynko]
+  tpxyz:
+    aliases: [fxsafax]
+  bloki:
+    aliases: [craftbloki]
